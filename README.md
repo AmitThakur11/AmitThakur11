@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitthakur11&label=Profile%20views&color=0e75b6&style=flat" alt="amitthakur11" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitthakur11" alt="amitthakur11" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/_amit__thakur" target="blank"><img src="https://img.shields.io/twitter/follow/_amit__thakur?logo=twitter&style=for-the-badge" alt="_amit__thakur" /></a> </p>
 
 - 🔭 I’m currently working on [MeetYour](https://meetyour.netlify.app)
